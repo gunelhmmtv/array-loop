@@ -1,0 +1,14 @@
+C:\Users\gunel\Desktop\loop & array\Array task3\Array task3\obj\Debug\net8.0\Array task3.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\gunel\Desktop\loop & array\Array task3\Array task3\obj\Debug\net8.0\Array task3.AssemblyInfoInputs.cache
+C:\Users\gunel\Desktop\loop & array\Array task3\Array task3\obj\Debug\net8.0\Array task3.AssemblyInfo.cs
+C:\Users\gunel\Desktop\loop & array\Array task3\Array task3\obj\Debug\net8.0\Array task3.csproj.CoreCompileInputs.cache
+C:\Users\gunel\Desktop\loop & array\Array task3\Array task3\bin\Debug\net8.0\Array task3.exe
+C:\Users\gunel\Desktop\loop & array\Array task3\Array task3\bin\Debug\net8.0\Array task3.deps.json
+C:\Users\gunel\Desktop\loop & array\Array task3\Array task3\bin\Debug\net8.0\Array task3.runtimeconfig.json
+C:\Users\gunel\Desktop\loop & array\Array task3\Array task3\bin\Debug\net8.0\Array task3.dll
+C:\Users\gunel\Desktop\loop & array\Array task3\Array task3\bin\Debug\net8.0\Array task3.pdb
+C:\Users\gunel\Desktop\loop & array\Array task3\Array task3\obj\Debug\net8.0\Array task3.dll
+C:\Users\gunel\Desktop\loop & array\Array task3\Array task3\obj\Debug\net8.0\refint\Array task3.dll
+C:\Users\gunel\Desktop\loop & array\Array task3\Array task3\obj\Debug\net8.0\Array task3.pdb
+C:\Users\gunel\Desktop\loop & array\Array task3\Array task3\obj\Debug\net8.0\Array task3.genruntimeconfig.cache
+C:\Users\gunel\Desktop\loop & array\Array task3\Array task3\obj\Debug\net8.0\ref\Array task3.dll

@@ -1,0 +1,14 @@
+C:\Users\gunel\Desktop\loop & array\Loop task2\Loop task2\bin\Debug\net8.0\Loop task2.exe
+C:\Users\gunel\Desktop\loop & array\Loop task2\Loop task2\bin\Debug\net8.0\Loop task2.deps.json
+C:\Users\gunel\Desktop\loop & array\Loop task2\Loop task2\bin\Debug\net8.0\Loop task2.runtimeconfig.json
+C:\Users\gunel\Desktop\loop & array\Loop task2\Loop task2\bin\Debug\net8.0\Loop task2.dll
+C:\Users\gunel\Desktop\loop & array\Loop task2\Loop task2\bin\Debug\net8.0\Loop task2.pdb
+C:\Users\gunel\Desktop\loop & array\Loop task2\Loop task2\obj\Debug\net8.0\Loop task2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\gunel\Desktop\loop & array\Loop task2\Loop task2\obj\Debug\net8.0\Loop task2.AssemblyInfoInputs.cache
+C:\Users\gunel\Desktop\loop & array\Loop task2\Loop task2\obj\Debug\net8.0\Loop task2.AssemblyInfo.cs
+C:\Users\gunel\Desktop\loop & array\Loop task2\Loop task2\obj\Debug\net8.0\Loop task2.csproj.CoreCompileInputs.cache
+C:\Users\gunel\Desktop\loop & array\Loop task2\Loop task2\obj\Debug\net8.0\Loop task2.dll
+C:\Users\gunel\Desktop\loop & array\Loop task2\Loop task2\obj\Debug\net8.0\refint\Loop task2.dll
+C:\Users\gunel\Desktop\loop & array\Loop task2\Loop task2\obj\Debug\net8.0\Loop task2.pdb
+C:\Users\gunel\Desktop\loop & array\Loop task2\Loop task2\obj\Debug\net8.0\Loop task2.genruntimeconfig.cache
+C:\Users\gunel\Desktop\loop & array\Loop task2\Loop task2\obj\Debug\net8.0\ref\Loop task2.dll
